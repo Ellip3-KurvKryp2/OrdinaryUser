@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Takatsuki-42
+- 👋 Hi, I’m an Ordinary User of Github.
 - 👀 I’m interested in ... Game Programming, and some heavy metal bands (Fleshgod Apocalypse, Decapitated, Helloween, Persefone...).
 - 🌱 I’m currently learning ... Unity (Unity C#), HTML, CSS and Python.
 - 😄 Pronouns: ... he, his, him (Man)
